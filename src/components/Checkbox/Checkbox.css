@@ -1,0 +1,10 @@
+.checkbox {
+  border-radius: 20pt;
+  padding: 4pt;
+  background-color: #f5f5f5;
+  border: 1px solid #589ff5;
+  width: 15pt;
+  height: 17pt;
+  padding: 10pt 12pt;
+  cursor: pointer;
+}

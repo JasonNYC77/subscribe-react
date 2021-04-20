@@ -1,0 +1,38 @@
+
+.subscribe-box input[type="text"] {
+  background-color: #f5f5f5;
+  padding: 15pt 3pt;
+  width: 100%;
+  border: 1px solid #f5f5f5;
+  border-radius: 3pt;
+}
+
+.subscribe-box button {
+  text-transform: uppercase;
+  border-radius: 3pt;
+  width: 100%;
+  background-color: #4292f4;
+  color: #fff;
+  font-weight:600;
+  font-size:16pt;
+  padding: 15pt 15pt;
+  border: 1px solid #4292f4;
+}
+.subscribe-box button:hover {
+  background-color: #5e9ce8;
+}
+.subscribe-box .field {
+  margin: auto;
+  margin-bottom: 8pt;
+  width: 100%;
+  max-width: 350pt;
+}
+.subscribe-box .txtSmall{
+  font-size:9pt;
+}
+.subscribe-box .txtCenter{
+  text-align: center;
+}
+.subscribe-box .leftMargin{
+  margin-left: 2pt;
+}

@@ -1,0 +1,28 @@
+.container {
+  padding: 15px 30px;
+  border-radius: 5px;;
+  -webkit-box-shadow: 1px 0px 15px 1px rgba(0,0,0,0.76); 
+  box-shadow: 1px 0px 15px 1px rgba(0,0,0,0.76);
+
+  margin-right: auto;
+  margin-left: auto;
+}
+.errors {
+  text-align: center;
+  color: red;
+}
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}

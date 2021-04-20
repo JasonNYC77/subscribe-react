@@ -1,0 +1,32 @@
+.headerNewsLetter {
+  margin-bottom: 20pt;
+}
+.headerNewsLetter h2, p{
+  text-align: center;
+}
+.news-letter-item {
+  display: table;
+  width: 100%;
+  margin-bottom: 13pt;
+}
+
+.news-letter-item .item-row {
+  display: table-row;
+}
+
+.news-letter-item .left {
+  display: table-cell;
+  width: 100pt;
+}
+
+.news-letter-item .middle {
+  display: table-cell;
+  vertical-align: top;
+  padding: 3pt 0 0 15pt;
+}
+
+.news-letter-item .right {
+  width: 50pt;
+  display: table-cell;
+  vertical-align: middle;
+}
